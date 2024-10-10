@@ -1,0 +1,1 @@
+Get the Userdata from power BI and make it on to a Excell
