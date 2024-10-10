@@ -1,1 +1,2 @@
 Get the Userdata from power BI and make it on to a Excell
+Once you get the data, pls make it processes and display on to the webpage.
